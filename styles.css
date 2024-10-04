@@ -1,0 +1,22 @@
+.content, .visuals{
+    display: inline-block;
+    border: 1px solid red;
+    padding: 1rem 1rem;
+
+}
+
+
+.maindiv{
+    margin: 0 200px;
+    padding: 20px;
+    background-color: lightblue;
+}
+
+
+
+.content{
+    background-color: azure;
+    margin-top: 20px;
+    padding: 20px;
+}
+
